@@ -34,8 +34,8 @@ Without proper current measurement, LEDs can overheat and fail prematurely.
 ```
 attiny85-christmas-lights/
 ├── firmware/
-│   └── christmas_lights.ino  # Main Arduino sketch
-└── README.md                 # This file
+│   └── christmasLedString.ino  # Main Arduino sketch
+└── README.md                   # This file
 ```
 
 ## Installation
