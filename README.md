@@ -50,6 +50,9 @@ Personal/educational use only. See code header for details.
 ## Why It Works
 Human eyes perceive brightness logarithmically. The Gaussian curve's smooth acceleration/deceleration matches this natural perception, creating light that feels organic rather than mechanical.
 
+Youtube:
+https://www.youtube.com/shorts/W8vPHY_eVVw
+
 ---
 
 *Perfect for adding warm, breathing light to holiday decorations without the robotic look of linear fades — but always measure your current!*
