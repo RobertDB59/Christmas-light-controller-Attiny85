@@ -52,7 +52,3 @@ Human eyes perceive brightness logarithmically. The Gaussian curve's smooth acce
 
 Youtube:
 https://www.youtube.com/shorts/W8vPHY_eVVw
-
----
-
-*Perfect for adding warm, breathing light to holiday decorations without the robotic look of linear fades — but always measure your current!*
